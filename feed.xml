@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Morning Brief — Carolyn</title>
     <link>https://cklein08.github.io/morning-brief-audio-7f3k2/</link>
-    <atom:link href="https://cklein08.github.io/morning-brief-audio-7f3k2/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://cklein08.github.io/morning-brief-audio-7f3k2/feed.xml" rel="self" type="application/rss+xml" />
     <description>Carolyn's daily morning podcast: the day's schedule, priorities, and prep, hosted by Alex and Jordan.</description>
     <language>en-us</language>
     <itunes:author>Carolyn Klein</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
+    <item><title>Morning Brief — Wednesday, October 21, 2026</title><description>Alex and Jordan walk Carolyn through a trimmed sick-day Wednesday: the must-show Cat/Adobe session at 9:25, the 3 PM Hurston interview, a guarded 2-to-3 rest block, money threads, and the Foster the People resale decision.</description><pubDate>Wed, 21 Oct 2026 09:00:00 -0700</pubDate><guid isPermaLink="false">morning-brief-2026-10-21</guid><itunes:duration>4:15</itunes:duration><itunes:explicit>no</itunes:explicit><enclosure url="https://cklein08.github.io/morning-brief-audio-7f3k2/morning-brief-wednesday-october-21-2026-2026-10-21.mp3" length="2042149" type="audio/mpeg" /></item><item>
       <title>Morning Brief — Tuesday, October 20, 2026</title>
       <description>Your morning brief for Tuesday, October 20, 2026.</description>
       <pubDate>Tue, 20 Oct 2026 09:00:00 -0700</pubDate>
       <guid isPermaLink="false">morning-brief-2026-10-20</guid>
       <itunes:duration>4:01</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <enclosure url="https://cklein08.github.io/morning-brief-audio-7f3k2/morning-brief-tuesday-october-20-2026-10-20.mp3" length="1930405" type="audio/mpeg"/>
+      <enclosure url="https://cklein08.github.io/morning-brief-audio-7f3k2/morning-brief-tuesday-october-20-2026-10-20.mp3" length="1930405" type="audio/mpeg" />
     </item>
     <item>
       <title>Morning Brief — Monday, October 19, 2026</title>
@@ -25,7 +25,7 @@
       <guid isPermaLink="false">morning-brief-2026-10-19</guid>
       <itunes:duration>3:50</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <enclosure url="https://cklein08.github.io/morning-brief-audio-7f3k2/morning-brief-monday-october-19-2026-10-19.mp3" length="1837861" type="audio/mpeg"/>
+      <enclosure url="https://cklein08.github.io/morning-brief-audio-7f3k2/morning-brief-monday-october-19-2026-10-19.mp3" length="1837861" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
