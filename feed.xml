@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
+    <item><title>Morning Brief — Thursday, October 22, 2026</title><description>Alex and Jordan walk Carolyn through a triaged sick-day Thursday: the 8:30 NRG stand-up and the 12:30 CAT content-security follow-up, the Jira fix that can't wait, and a 75-minute recovery window if she releases the 9 AM webinar.</description><pubDate>Thu, 22 Oct 2026 09:00:00 -0700</pubDate><guid isPermaLink="false">morning-brief-2026-10-22</guid><itunes:duration>4:40</itunes:duration><itunes:explicit>no</itunes:explicit><enclosure url="https://cklein08.github.io/morning-brief-audio-7f3k2/morning-brief-thursday-october-22-2026-2026-10-22.mp3" length="2237221" type="audio/mpeg" /></item>
     <title>Morning Brief — Carolyn</title>
     <link>https://cklein08.github.io/morning-brief-audio-7f3k2/</link>
     <atom:link href="https://cklein08.github.io/morning-brief-audio-7f3k2/feed.xml" rel="self" type="application/rss+xml" />
